@@ -15,8 +15,6 @@ Power BI, DAX
 - Identified top and bottom-performing restaurants by cost and rating
 - Surfaced delivery time variance (20–109 mins) across restaurant categories
 
-![Dashboard Screenshot](Screenshot 2026-09-30 011347.png)
-
 ## Files
 - `Swiggydashboard.pbix` — Power BI report file
 - `Swiggy_Final_Data.xlsx` — source dataset
